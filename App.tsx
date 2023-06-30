@@ -51,6 +51,7 @@ function Section({children, title}: SectionProps): JSX.Element {
         ]}>
         {children}
       </Text>
+      
     </View>
   );
 }
